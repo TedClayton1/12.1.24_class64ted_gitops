@@ -1,0 +1,5 @@
+Team = Carolina Panthers
+SuperBowl Championship = ????
+Stadium = Bank of America
+SuperBowl Apperances = 2003 and 2015
+Longest Td Pass in Playoffs = 2004 Musin Muhammad Superbowl 38
